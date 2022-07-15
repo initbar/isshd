@@ -8,6 +8,7 @@ RUN echo 'root:toor' | chpasswd \
  && apt-get install -y \
             openssh-server \
             sudo \
+ && rm -rf /var/lib/apt/lists/* \
  && service ssh start
 
 COPY config/* /etc/ssh/
