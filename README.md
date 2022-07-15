@@ -1,3 +1,5 @@
+[![Build and Containerize Dotfiles](https://github.com/initbar/isshd/actions/workflows/docker-build-deploy.yml/badge.svg)](https://github.com/initbar/isshd/actions/workflows/docker-build-deploy.yml)
+
 <p align="center">
   <img src="https://media.githubusercontent.com/media/initbar/initbar/main/github/isshd.png">
 </p>
