@@ -1,6 +1,6 @@
 # Insecure SSHD
 
-⚠️ This is only for development purposes.
+⚠️ This should be used only for development.
 
 ## Server
 
