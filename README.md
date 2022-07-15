@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.githubusercontent.com/media/initbar/assets/main/github/isshd.png">
+  <img src="https://media.githubusercontent.com/media/initbar/initbar/main/github/isshd.png">
 </p>
 
 ## Server
