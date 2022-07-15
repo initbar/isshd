@@ -1,7 +1,5 @@
 # Insecure SSHD
 
-⚠️ This should be used only for development.
-
 ## Server
 
 ```bash
@@ -9,6 +7,11 @@
 ```
 
 ## Client
+
+| | |
+|:-:|:-:|
+| Username | root |
+| Password | toor |
 
 ```bash
 ~$ ssh root@127.0.0.1 -p $PORT
