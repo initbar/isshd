@@ -1,9 +1,17 @@
 # Insecure SSHD
 
-## Usage
+⚠️ This is only for development purposes.
 
+## Server
+
+```bash
+~$ docker run --rm -d -p $PORT:22 initbar/isshd:latest
 ```
-docker run --rm -d -p 60022:22 initbar/isshd:latest
+
+## Client
+
+```bash
+~$ ssh root@127.0.0.1 -p $PORT
 ```
 
 ## License
