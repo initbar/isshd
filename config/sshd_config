@@ -36,7 +36,7 @@ MaxAuthTries 3
 MaxSessions 10
 MaxStartups 10:51:15
 PasswordAuthentication yes
-PermitEmptyPasswords no
+PermitEmptyPasswords yes
 PermitRootLogin yes
 PermitTunnel no
 PermitUserEnvironment no

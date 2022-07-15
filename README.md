@@ -16,9 +16,6 @@
 ~$ ssh root@127.0.0.1 -p $PORT
 ```
 
-- Username: **root**
-- Password: **toor**
-
 ## License
 
 **isshd** is under [MIT License](./LICENSE).
