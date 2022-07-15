@@ -1,4 +1,6 @@
-# Insecure SSHD
+<p align="center">
+  <img src="https://media.githubusercontent.com/media/initbar/assets/main/github/isshd.png">
+</p>
 
 ## Server
 
@@ -8,14 +10,12 @@
 
 ## Client
 
-| | |
-|:-:|:-:|
-| Username | root |
-| Password | toor |
-
 ```bash
 ~$ ssh root@127.0.0.1 -p $PORT
 ```
+
+- Username: **root**
+- Password: **toor**
 
 ## License
 
